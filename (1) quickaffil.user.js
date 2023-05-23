@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Quickaffil
+// @name         quickaffil
 // @namespace    bov
 // @version      1.1
-// @description  immediately puts affiliate code for current page on clipboard via hotkey (line 15)
+// @description  Populates clipboard with Amazon item's ASIN in affiliate format via hotkey (line 15)
 // @author       bovine
 // @match        https://www.amazon.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=amazon.com
