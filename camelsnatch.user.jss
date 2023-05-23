@@ -2,7 +2,7 @@
 // @name         Camelsnatch
 // @namespace    bov
 // @version      1.0
-// @description  Grabs camelcamelcamel chart for item via hotkey (line 14).
+// @description  Opens camelcamelcamel chart in background tab via hotkey (line 14).
 // @author       bovine
 // @match        https://www.amazon.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=amazon.com
