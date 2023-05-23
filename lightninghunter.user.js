@@ -2,20 +2,18 @@
 // @name         lightninghunter
 // @namespace    bovine
 // @version      1.0
-// @description  moo
+// @description  Checks of lightning deals for time left, if less than 5 min left opens links in separate background tabs.
+//               If no coupon present, closes tab.  Assign hotkey on line 22.
 // @author       bovine
 // @match        https://www.amazon.com/deals*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=amazon.com
 // @grant        none
 // ==/UserScript==
 
-//FUNCTION - checks maxtabs # of lightning deals for time left, if less than 5 min left
-//////////   opens links in separate background tabs. If no coupon present, closes tab.
-
 //\\//\\//\\// REQUIRES THAT YOU ALLOW POPUPS (run script once then click the icon in the navigation bar)
 
 /////////////// NOTE: it will also keep most tabs that are at 10+ minutes
-//////////////////////  useful for testing at other times but reduce maxtabs variable
+/////////////////////  - useful for testing at other times but reduce maxtabs variable
 
 ///// if script freezes up, recommended to block https://www.amazon.com from showing images (chrome://settings/content/images)
 
