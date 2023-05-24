@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         LightningCracker
+// @name         Placeholder
 // @namespace    bov
 // @version      1.0
-// @description  Repeatedly adds lightning deal items to cart. Toggle on and off via hotkey (line 15).
-// @author       bovine - original console script by Keretus
+// @description  doesn't work
+// @author       bov
 // @match        https://www.amazon.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=amazon.com
 // ==/UserScript==
