@@ -14,8 +14,3 @@ default hotkey 1
 Opens camelcamelcamel chart for item in background tab
 
 default hotkey 2
-
-# LightningCracker
-Repeatedly attempts to add deal to cart
-
-default hotkey 0
