@@ -11,6 +11,8 @@ Immediately puts affiliate code for current page in clipboard
 default hotkey 1
 
 # Camelsnatch
-Opens camelcamelcamel chart for item in background tab
+Opens camelcamelcamel chart or keepa page for item in background tab
 
-default hotkey 2
+default hotkeys 2 & 3
+
+
