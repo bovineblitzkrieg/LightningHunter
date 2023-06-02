@@ -15,4 +15,7 @@ Opens camelcamelcamel chart or keepa page for item in background tab
 
 default hotkeys 2 & 3
 
+---------------------
 
+For free alerts from a serverside LightningHunter, check out Lightning Llama:
+https://discord.gg/YuqcADMJ
