@@ -17,5 +17,3 @@ default hotkeys 2 & 3
 
 ---------------------
 
-For free alerts from a serverside LightningHunter, check out Lightning Llama:
-https://discord.gg/YuqcADMJ
